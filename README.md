@@ -1,1 +1,1 @@
-# ougato.github.res
+remote: Permission to xxx denied to xxx
